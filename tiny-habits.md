@@ -1,13 +1,9 @@
 # Tiny Habits
 
-## 1. [Tiny Habits - BJ Fogg](https://www.youtube.com/watch?v=AdKUJxjn-R8)
-
 ### Question 1: In this video, what was the most interesting story or idea for you?
 
 I liked the idea of starting by flossing just one tooth after brushing.  
 It shows how a very small action can slowly turn into a bigger habit.
-
-## 2. [Tiny Habits by BJ Fogg - Core Message](https://www.youtube.com/watch?v=S_8e-6ZHKLs)
 
 ### Question 2: How can you use B = MAP to make new habits easier? What are M, A and P?
 
@@ -19,14 +15,10 @@ I can build a habit by choosing something I want to do, making it easy and setti
 Celebrating a small achievement makes us feel good about what we have done.  
 This positive feeling makes us more likely to repeat the habit.
 
-## 3. [1% Better Every Day](https://www.youtube.com/watch?v=mNeXuCYiE0U)
-
 ### Question 4: In this video, what was the most interesting story or idea for you?
 
 I liked how the British cycling team improved by making small changes in many areas.  
 It shows that small improvements over time can lead to big results.
-
-## 4. [Book Summary of Atomic Habits](https://www.youtube.com/watch?v=YT7tQzmGRLA)
 
 ### Question 5: What is the book's perspective about identity?
 
@@ -42,8 +34,6 @@ Starting with a small action and removing obstacles makes it easier to stay cons
 
 We should hide the reminders of bad habits and make them less appealing.  
 Making them difficult to do and less rewarding helps us avoid them.
-
-## 5. Reflection
 
 ### Question 8: Pick one habit that you would like to do more of. What steps can you take to build it?
 
